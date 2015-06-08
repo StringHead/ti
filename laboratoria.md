@@ -55,4 +55,5 @@ Dane należy wpisać **w jednym wierszu** w tym pliku według tego schematu:
 1. [Sylwester Portalski](https://bitbucket.org/sportalski/projekt/). [Wiadomosci](http://wiadomosciczat.meteor.com/).
 1. [Damian Samsoniuk](https://github.com/dsamsoniuk/egzamin). [Chat](http://chat_1.meteor.com).
 1. [Brzozowski Patryk, Adrian Chylicki](https://github.com/achylicki/meteor).[Wybory2000](http://wybory2000.meteor.com/).
-1. [Krzychowiec Rafał Krzychowiec](https://github.com/StringHead/Prometeo).[Prometeo](http://prometeo.meteor.com/).
+1. [Krzychowiec Rafał](https://github.com/StringHead/Prometeo).[Prometeo](http://prometeo.meteor.com/).
+1. (Krzychowiec Rafał](https://github.com/StringHead/Mosai-code).[Mosai-code](http://mosai-code.meteor.com/).
